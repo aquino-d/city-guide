@@ -1,0 +1,29 @@
+/*********** Color Pallete  ***********/
+/* light blue - #D9ECF2  */
+/* light red - #F56A79  */
+/* red - #FF414D  */
+/* blue - #1AA6B7  */
+/* dark blue - #002D40  */
+
+
+h2 {
+    color: #002D40;
+}
+
+a{
+    text-decoration: none;
+    color: #1AA6B7; 
+}
+
+a.brand {
+    color: #002D40;
+}
+
+div.banner {
+    background-color: #1AA6B7;
+    color: #FFF;
+}
+
+footer {
+    background-color: #D9ECF2;
+}
